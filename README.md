@@ -148,3 +148,21 @@ gobs.pdf
 This project was created as part of my learning journey in web development and personal branding.
 
 ---
+# AWS S3 Static Portfolio Hosting
+
+## Steps Followed
+1. Created a responsive portfolio using HTML and CSS
+2. Uploaded code to GitHub
+3. Created an S3 bucket and enabled static website hosting
+4. Applied bucket policy for public access
+5. Configured CloudFront for HTTPS delivery
+
+## Live URL
+https://your-cloudfront-url
+
+## Tools Used
+- AWS S3
+- AWS CloudFront
+- GitHub
+- HTML, CSS
+
